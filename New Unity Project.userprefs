@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\DBConnect.cs">
+    <Files>
+      <File FileName="Assets\scripts\camerafollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\triggera.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\triggerb.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\controlos.cs" Line="1" Column="1" />
+      <File FileName="Assets\EmptyEnumeration.cs" Line="1" Column="1" />
+      <File FileName="Assets\DBConnect.cs" Line="65" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
