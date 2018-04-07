@@ -1112,8 +1112,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerd: 0
   LevelEnd: {fileID: 659900707}
+  textdisa: {fileID: 1247297555}
   playerpos1: {fileID: 1494259754}
   respawnp: {fileID: 499219649}
+  text: {fileID: 796738927}
 --- !u!60 &441131033
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -2776,20 +2778,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &1247297556
-Transform:
+--- !u!224 &1247297556
+RectTransform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1247297555}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -500.58533, y: 315, z: 648.23773}
+  m_LocalPosition: {x: 0, y: 0, z: 648.23773}
   m_LocalScale: {x: 268.31958, y: 225.30602, z: 163.85892}
   m_Children:
   - {fileID: 796738926}
   m_Father: {fileID: 1008765785}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 39.414673, y: -51.669556}
+  m_SizeDelta: {x: 0.14001465, y: 0.1000061}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!212 &1247297557
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3689,6 +3696,7 @@ GameObject:
   - component: {fileID: 1494259752}
   - component: {fileID: 1494259757}
   - component: {fileID: 1494259756}
+  - component: {fileID: 1494259758}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -3783,8 +3791,8 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
---- !u!60 &1494259756
-PolygonCollider2D:
+--- !u!61 &1494259756
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
@@ -3795,7 +3803,7 @@ PolygonCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.002138406, y: -0.10521102}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -3805,30 +3813,9 @@ PolygonCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: -0.4442764, y: 0.003686428}
-      - {x: -0.4968969, y: 0.0030970573}
-      - {x: -0.44444388, y: -0.31231117}
-      - {x: -0.50213325, y: -0.31331635}
-      - {x: -0.43639395, y: -0.31069946}
-      - {x: -0.43744716, y: -0.3772955}
-      - {x: -0.3369885, y: -0.3776698}
-      - {x: -0.33610648, y: -0.4319625}
-      - {x: -0.31397006, y: -0.43585825}
-      - {x: -0.31053126, y: -0.5009303}
-      - {x: 0.3223959, y: -0.5059519}
-      - {x: 0.31438318, y: -0.37880087}
-      - {x: 0.44786036, y: -0.37932873}
-      - {x: 0.44837767, y: -0.3156128}
-      - {x: 0.5015043, y: -0.3131323}
-      - {x: 0.5027213, y: -0.0012264252}
-      - {x: 0.4404282, y: 0.0015873909}
-      - {x: 0.44052124, y: 0.06476116}
-      - {x: -0.43692985, y: 0.06487751}
-      - {x: -0.4380724, y: 0.00095415115}
-      - {x: -0.43892467, y: 0.005317211}
-      - {x: -0.50207, y: 0.006354809}
+  serializedVersion: 2
+  m_Size: {x: 0.6193592, y: 0.78957796}
+  m_EdgeRadius: 0
 --- !u!50 &1494259757
 Rigidbody2D:
   serializedVersion: 4
@@ -3849,6 +3836,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 0
+--- !u!114 &1494259758
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1494259751}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e01dde577777aa4eaaa3b63eb63d0d0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1583780173
 GameObject:
   m_ObjectHideFlags: 0

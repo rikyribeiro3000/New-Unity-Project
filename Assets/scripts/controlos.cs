@@ -22,6 +22,7 @@ public class controlos : MonoBehaviour
 
     void Update()
     {
+        transform.Rotate(new Vector3(0, 0, 0));
         playermoving = false;
 
         if (Input.GetAxisRaw("Horizontal") > 0.5f || Input.GetAxisRaw("Horizontal") < -0.5f)
