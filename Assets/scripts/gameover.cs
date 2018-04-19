@@ -13,12 +13,17 @@ public class gameover : MonoBehaviour
     [SerializeField] private Transform playerpos1;
     [SerializeField] private Transform respawnp;
     [SerializeField] private Text text;
+    private AudioSource haha;
+    void Start()
+    {
+        haha = GetComponent<AudioSource>();
+    }
     void OnCollisionEnter2D(Collision2D other)
     {
-
-        vida--;
-        text.text= "X" + vida;
         playerpos1.transform.position = respawnp.transform.position;
+        vida--;
+        haha.Play();
+        text.text = "X" + vida;
         if (vida == 0) 
         {
             textdisa.SetActive(false);

@@ -8,6 +8,7 @@ public class triggera : MonoBehaviour
     public bool triggeraa = false;
     public bool triggeraaw = false;
     public GameObject LevelEnd;
+    public GameObject textdisa;
     public GameObject questionPanel;
 
     void OnTriggerEnter2D(Collider2D other)
@@ -19,7 +20,8 @@ public class triggera : MonoBehaviour
                     return;
                 player.moveSpeed = 0;
                 LevelEnd.SetActive(true);
-            }
+                textdisa.SetActive(false);
+        }
             if (triggeraaw == true)
             {
                 GameController._instance.TranstionToNextQuestion();

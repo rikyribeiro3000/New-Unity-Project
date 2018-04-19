@@ -8,6 +8,7 @@ public class triggerb : MonoBehaviour
     public bool triggerbb = false;
     public bool triggerbbw = false;
     public GameObject LevelEnd;
+    public GameObject textdisa;
     public GameObject questionPanel;
     void OnTriggerEnter2D(Collider2D other)
 
@@ -19,10 +20,12 @@ public class triggerb : MonoBehaviour
                 return;
             player.moveSpeed = 0;
             LevelEnd.SetActive(true);
+            textdisa.SetActive(false);
         }
         if (triggerbbw == true)
         {
             questionPanel.SetActive(false);
+
 
         }
 

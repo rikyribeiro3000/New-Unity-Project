@@ -7,8 +7,12 @@ using UnityEngine.SceneManagement;
 
 public class GameController : MonoBehaviour
 {
-    public triggera trigger;
-    public triggerb triggerb;
+    public triggera triggera;
+    public triggera2 triggera2;
+    public respostadava triggera3;
+    public triggerb triggerb; 
+    public triggerb2 triggerb2;
+    public respostadavb triggerb3;
     public Question[] questions;
     public static List<Question> unansweredQuestions;
     public static GameController _instance;
@@ -48,7 +52,12 @@ public class GameController : MonoBehaviour
             trueAnswerText2.text = "Verdadeiro";
             falseAnswerText2.text = "Falso";
             triggerb.triggerbb = true;
-            trigger.triggeraaw = true;
+            triggerb2.triggerbb2 = true;
+            triggerb3.triggerbby = true;
+            triggera.triggeraaw = true;
+            triggera2.triggeraaw2 = true;
+            triggera3.triggeraaw = true;
+           
 
         }
         else
@@ -59,8 +68,13 @@ public class GameController : MonoBehaviour
             falseAnswerText1.text = "Falso";
             trueAnswerText2.text = "Verdadeiro";
             falseAnswerText2.text = "Falso";
-            trigger.triggeraa = true;
+            triggera.triggeraa = true;
+            triggera2.triggeraa2 = true;
+            triggera3.triggeraa = true;
             triggerb.triggerbbw = true;
+            triggerb2.triggerbbw2 = true;
+            triggerb3.triggerbbwy = true;
+            
         }
 
         factText.text = currentQuestion.fact;
