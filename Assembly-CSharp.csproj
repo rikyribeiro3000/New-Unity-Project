@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{42F7E472-7D2B-F4A9-7C9D-B68A6983D11E}</ProjectGuid>
+    <ProjectGuid>{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -103,6 +103,7 @@
      <Compile Include="Assets\Menu\Menu\Scripts\StartOptions.cs" />
      <Compile Include="Assets\scripts\camerafollow.cs" />
      <Compile Include="Assets\scripts\controlos.cs" />
+     <Compile Include="Assets\scripts\EmptyEnumeration.cs" />
      <Compile Include="Assets\scripts\GameController.cs" />
      <Compile Include="Assets\scripts\gameover.cs" />
      <Compile Include="Assets\scripts\gameovertext.cs" />
@@ -115,6 +116,8 @@
      <Compile Include="Assets\scripts\screenfader.cs" />
      <Compile Include="Assets\scripts\triggera.cs" />
      <Compile Include="Assets\scripts\triggera2.cs" />
+     <Compile Include="Assets\scripts\triggera3.cs" />
+     <Compile Include="Assets\scripts\triggerab3.cs" />
      <Compile Include="Assets\scripts\triggerb.cs" />
      <Compile Include="Assets\scripts\triggerb2.cs" />
      <Compile Include="Assets\scripts\warp.cs" />
