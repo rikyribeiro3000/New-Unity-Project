@@ -68,6 +68,7 @@ public class GameController : MonoBehaviour
             triggera3.triggeraaw = true;
             triggera4.triggeraaw3 = true;
 <<<<<<< HEAD
+<<<<<<< HEAD
             triggera.triggeraa = false;
             triggera2.triggeraa2 = false;
             triggera3.triggeraa = false;
@@ -76,6 +77,8 @@ public class GameController : MonoBehaviour
             triggerb2.triggerbbw2 = false;
             triggerb3.triggerbbwy = false;
             triggerb4.triggerbbw = false;
+=======
+>>>>>>> 08fefbb30339323c7361dd4ac37719e041a7a9a7
 =======
 >>>>>>> 08fefbb30339323c7361dd4ac37719e041a7a9a7
 
@@ -100,6 +103,7 @@ public class GameController : MonoBehaviour
             triggerb3.triggerbbwy = true;
             triggerb4.triggerbbw = true;
 <<<<<<< HEAD
+<<<<<<< HEAD
             triggerb.triggerbb = false;
             triggerb2.triggerbb2 = false;
             triggerb3.triggerbby = false;
@@ -109,6 +113,8 @@ public class GameController : MonoBehaviour
             triggera3.triggeraaw = false;
             triggera4.triggeraaw3 = false;
 =======
+=======
+>>>>>>> 08fefbb30339323c7361dd4ac37719e041a7a9a7
             
 >>>>>>> 08fefbb30339323c7361dd4ac37719e041a7a9a7
         }
