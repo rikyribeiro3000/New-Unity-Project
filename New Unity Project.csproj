@@ -285,7 +285,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\EmptyEnumeration.cs" />
     <Compile Include="Assets\MaterialUI\Examples\Scripts\04 - RadioButton\Example04.cs" />
     <Compile Include="Assets\MaterialUI\Examples\Scripts\05 - Sliders\Example05.cs" />
     <Compile Include="Assets\MaterialUI\Scripts\Anim.cs" />
@@ -328,22 +327,33 @@
     <Compile Include="Assets\MaterialUI\Scripts\Toaster.cs" />
     <Compile Include="Assets\MaterialUI\Scripts\ToggleConfig.cs" />
     <Compile Include="Assets\MaterialUI\Scripts\ToggleTextChanger.cs" />
-    <Compile Include="Assets\Menu\Game Jam Menu Template\Scripts\DontDestroy.cs" />
-    <Compile Include="Assets\Menu\Game Jam Menu Template\Scripts\EventSystemChecker.cs" />
-    <Compile Include="Assets\Menu\Game Jam Menu Template\Scripts\Pause.cs" />
-    <Compile Include="Assets\Menu\Game Jam Menu Template\Scripts\PlayMusic.cs" />
-    <Compile Include="Assets\Menu\Game Jam Menu Template\Scripts\QuitApplication.cs" />
-    <Compile Include="Assets\Menu\Game Jam Menu Template\Scripts\SetAudioLevels.cs" />
-    <Compile Include="Assets\Menu\Game Jam Menu Template\Scripts\ShowPanels.cs" />
-    <Compile Include="Assets\Menu\Game Jam Menu Template\Scripts\StartOptions.cs" />
+    <Compile Include="Assets\Menu\Menu\Scripts\DontDestroy.cs" />
+    <Compile Include="Assets\Menu\Menu\Scripts\EventSystemChecker.cs" />
+    <Compile Include="Assets\Menu\Menu\Scripts\Pause.cs" />
+    <Compile Include="Assets\Menu\Menu\Scripts\PlayMusic.cs" />
+    <Compile Include="Assets\Menu\Menu\Scripts\QuitApplication.cs" />
+    <Compile Include="Assets\Menu\Menu\Scripts\SetAudioLevels.cs" />
+    <Compile Include="Assets\Menu\Menu\Scripts\ShowPanels.cs" />
+    <Compile Include="Assets\Menu\Menu\Scripts\StartOptions.cs" />
     <Compile Include="Assets\scripts\camerafollow.cs" />
     <Compile Include="Assets\scripts\controlos.cs" />
+    <Compile Include="Assets\scripts\EmptyEnumeration.cs" />
     <Compile Include="Assets\scripts\GameController.cs" />
+    <Compile Include="Assets\scripts\gameover.cs" />
+    <Compile Include="Assets\scripts\gameovertext.cs" />
     <Compile Include="Assets\scripts\menuscript.cs" />
+    <Compile Include="Assets\scripts\norotate.cs" />
     <Compile Include="Assets\scripts\Question.cs" />
+    <Compile Include="Assets\scripts\respostadava.cs" />
+    <Compile Include="Assets\scripts\respostadavb.cs" />
+    <Compile Include="Assets\scripts\restart.cs" />
     <Compile Include="Assets\scripts\screenfader.cs" />
     <Compile Include="Assets\scripts\triggera.cs" />
+    <Compile Include="Assets\scripts\triggera2.cs" />
+    <Compile Include="Assets\scripts\triggera3.cs" />
+    <Compile Include="Assets\scripts\triggerab3.cs" />
     <Compile Include="Assets\scripts\triggerb.cs" />
+    <Compile Include="Assets\scripts\triggerb2.cs" />
     <Compile Include="Assets\scripts\warp.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\CircleObject.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\GameObjectExtensions.cs" />
@@ -366,9 +376,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\MaterialUI\Fonts\NOTICE.txt" />
-    <None Include="Assets\Menu\Game Jam Menu Template\Fonts\OpenSans\License!.txt" />
-    <None Include="Assets\Menu\Game Jam Menu Template\GameJamTemplateReadMe.txt" />
+    <None Include="Assets\Menu\Menu\Fonts\OpenSans\License!.txt" />
+    <None Include="Assets\Menu\Menu\GameJamTemplateReadMe.txt" />
     <None Include="Assets\Tiled2Unity\Imported\_ReadMe.txt" />
+    <None Include="Assets\Tiled2Unity\Imported\mapadefenitivo.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\mapateste.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\License.txt" />
     <None Include="Assets\Tiled2Unity\Materials\_ReadMe.txt" />
@@ -387,7 +398,6 @@
     <None Include="Assets\Tiled2Unity\Shaders\shaDiffuseDepth.shader" />
     <None Include="Assets\Tiled2Unity\Textures\_ReadMe.txt" />
     <None Include="Assets\Tiled2Unity\Tiled2Unity.export.txt" />
-    <None Include="Assets\text\batata.txt" />
     <None Include="Assets\text\pizzadudedotdk.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
