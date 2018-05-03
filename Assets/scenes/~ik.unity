@@ -1167,7 +1167,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -1589,7 +1589,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 796164bf96f76df43bbaa341ddcc697e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerd: 0
   vida: 3
   LevelEnd: {fileID: 659900707}
   textdisa: {fileID: 1247297555}
@@ -1776,7 +1775,7 @@ PolygonCollider2D:
       - {x: -7.0434995, y: 33.159317}
       - {x: -7.071736, y: 32.962074}
       - {x: -7.0714965, y: 33.426743}
-      - {x: -7.065399, y: 35.595695}
+      - {x: -7.0728984, y: 35.595695}
       - {x: -7.823849, y: 35.611263}
       - {x: -7.831394, y: 38.07606}
       - {x: -8.005663, y: 38.298756}
@@ -1820,7 +1819,7 @@ PolygonCollider2D:
       - {x: -1.7240604, y: 34.04528}
       - {x: -1.8495445, y: 34.08111}
       - {x: -1.8483036, y: 34.79616}
-      - {x: -2.5450168, y: 34.75599}
+      - {x: -2.545017, y: 34.783047}
       - {x: -2.594177, y: 34.984276}
       - {x: -2.6052413, y: 38.25442}
       - {x: -2.4429226, y: 38.325756}
@@ -1868,11 +1867,11 @@ PolygonCollider2D:
       - {x: -6.037162, y: 19.507835}
       - {x: -6.692875, y: 19.573826}
       - {x: -8.211396, y: 19.608253}
-      - {x: -8.210654, y: 18.198109}
-      - {x: -6.717718, y: 18.229973}
+      - {x: -8.204439, y: 18.33125}
+      - {x: -6.7239347, y: 18.263258}
       - {x: -6.7171054, y: 14.799328}
-      - {x: -6.7156763, y: 14.313276}
-      - {x: -6.7568126, y: 14.026588}
+      - {x: -6.712569, y: 14.279991}
+      - {x: -6.744382, y: 14.026588}
       - {x: -7.1750183, y: 14.071802}
       - {x: -7.172771, y: 14.038267}
       - {x: -7.174621, y: 13.438877}
@@ -4155,8 +4154,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   triggera: {fileID: 1075079491}
   triggera2: {fileID: 817882308}
-  triggera4: {fileID: 1251278912}
   triggera3: {fileID: 413765675}
+  triggera4: {fileID: 1251278912}
   triggerb: {fileID: 1433305716}
   triggerb2: {fileID: 1828189613}
   triggerb3: {fileID: 1789143392}
@@ -5056,7 +5055,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.002138406, y: -0.10521102}
+  m_Offset: {x: -0.002138406, y: -0.22297263}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -5067,7 +5066,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.6193592, y: 0.78957796}
+  m_Size: {x: 0.6193592, y: 0.55405474}
   m_EdgeRadius: 0
 --- !u!50 &1494259757
 Rigidbody2D:

@@ -7,23 +7,19 @@ public class camerafollow : MonoBehaviour {
 
     public Transform target ;
     Camera mycam;
-
-
-	// Use this for initialization
 	void Start () {
 
         mycam = GetComponent <Camera>();
 		
 	}
-	
-	// Update is called once per frame
 	void Update () {
 
         mycam.orthographicSize = (Screen.height / 100f) / 1.5f;
 
 
-        if (target)
+        if (target) // if target exists
         {
+            //transform the position of mycam to the position of the target 
             transform.position = Vector3.Lerp(transform.position, target.position, 0.1f) + new Vector3 (0,0, -10);
 
         }

@@ -24,6 +24,7 @@ public class triggerab3 : MonoBehaviour
         }
         if (triggerbbw == true)
         {
+            GameController._instance.checkpoint = 1;
             questionPanel.SetActive(false);
             textdisa.SetActive(false);
 

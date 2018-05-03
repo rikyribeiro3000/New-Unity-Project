@@ -24,6 +24,7 @@ public class triggera3 : MonoBehaviour
         }
         if (triggeraaw3 == true)
         {
+            GameController._instance.checkpoint = 1;
             GameController._instance.TranstionToNextQuestion();
             questionPanel.SetActive(false);
 

@@ -7,48 +7,44 @@ using UnityEngine.SceneManagement;
 
 public class GameController : MonoBehaviour
 {
-    public triggera triggera;
-    public triggera2 triggera2;
-    public triggera3 triggera4;
-    public respostadava triggera3;
-    public triggerb triggerb; 
-    public triggerb2 triggerb2;
-    public respostadavb triggerb3;
-    public triggerab3 triggerb4;
-    public Question[] questions;
-    public static List<Question> unansweredQuestions;
-    public static GameController _instance;
-    public int checkpoint = 0;
-
-
-
-    public Question currentQuestion;
+    public triggera triggera;                                                           //firts trigger on the pad a
+    public triggera2 triggera2;                                                         //second trigger on the pad a
+    public respostadava triggera3;                                                      //third trigger on the pad a
+    public triggera3 triggera4;                                                         // forth trigger on the pad a
+    public triggerb triggerb;                                                           //firts trigger on the pad b
+    public triggerb2 triggerb2;                                                         //second trigger on the pad b
+    public respostadavb triggerb3;                                                      //third trigger on the pad b
+    public triggerab3 triggerb4;                                                        // forth trigger on the pad b
+    public Question[] questions;                                                        // question list
+    public static List<Question> unansweredQuestions;                                   // unansweredquestion list
+    public static GameController _instance;                                             // instance of this Script
+    public int checkpoint = 0;                                                          //checkpoint var
+    public Question currentQuestion;                                                    // current question text
+    [SerializeField]
+    private Text factText;                                                              // text from the factText
 
     [SerializeField]
-    private Text factText;
-
-    [SerializeField]
-    private Text trueAnswerText, falseAnswerText,trueAnswerText1,falseAnswerText1,trueAnswerText2, falseAnswerText2, trueAnswerText3, falseAnswerText3;
+    private Text trueAnswerText, falseAnswerText,trueAnswerText1,falseAnswerText1,trueAnswerText2, falseAnswerText2, trueAnswerText3, falseAnswerText3; // text from the true or anwser 
 
 
     void Start()
     {
-        if (unansweredQuestions == null || unansweredQuestions.Count == 0)
+        if (unansweredQuestions == null || unansweredQuestions.Count == 0)  // if the list of questions has nathing in it then get all the gestions from the Question list
         {
             unansweredQuestions = questions.ToList<Question>();
             Debug.Log(unansweredQuestions);
         }
         if (_instance == null)
             _instance = this;
-        SetCurrentQuestion();
+        SetCurrentQuestion(); // when the list is done  call the function setcurrentquestion
     }
 
    public void SetCurrentQuestion()
     {
-        int randomQuestionsIndex = Random.Range(0, unansweredQuestions.Count);
+        int randomQuestionsIndex = Random.Range(0, unansweredQuestions.Count); //randomize the question 
         currentQuestion = questions[randomQuestionsIndex];
 
-        if (currentQuestion.isTrue)
+        if (currentQuestion.isTrue) //if the currentquestion bolean is true then do this
         {
             trueAnswerText.text = "Verdadeiro";
             falseAnswerText.text = "Falso";
@@ -77,7 +73,7 @@ public class GameController : MonoBehaviour
 
 
         }
-        else
+        else //else do that 
         {
             trueAnswerText.text = "Verdadeiro";
             falseAnswerText.text = "Falso";
@@ -105,15 +101,14 @@ public class GameController : MonoBehaviour
             triggera4.triggeraaw3 = false;
         }
 
-        factText.text = currentQuestion.fact;
+        factText.text = currentQuestion.fact; //set the current question text to the question text
 
 
     }
-     public void TranstionToNextQuestion()
+     public void TranstionToNextQuestion() // transition to next question
     {
-        checkpoint = checkpoint + 1;
-        unansweredQuestions.Remove(currentQuestion);
-        SetCurrentQuestion();
+        unansweredQuestions.Remove(currentQuestion); // remove the current question from the list 
+        SetCurrentQuestion(); //and set another question 
 
     }
 }

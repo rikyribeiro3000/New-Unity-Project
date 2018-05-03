@@ -4,15 +4,14 @@ using UnityEngine;
 
 public class warp : MonoBehaviour {
 
-    public Transform warptarget;
-    public GameObject questionPanel;
-    public GameObject testdisa;
+    public Transform warptarget; // postion where to teleporte
+    public GameObject questionPanel; // question panel to make it disapear
+    public GameObject testdisa; // and the text to make it disapear also 
 
 
     IEnumerator OnTriggerEnter2D(Collider2D other) {
         controlos player = other.GetComponent<controlos>();
         player.moveSpeed = 0;
-        Debug.Log("OBJECT COLIDED");
         screenfader sf = GameObject.FindWithTag("Fader").GetComponent<screenfader>();
 
         testdisa.SetActive(false);
@@ -26,7 +25,6 @@ public class warp : MonoBehaviour {
         testdisa.SetActive(true);
         player.moveSpeed = 10;
         player.moveSpeed = player.moveSpeed + 1;
-        Debug.Log("Pre fade in complete");
     }
 
 }

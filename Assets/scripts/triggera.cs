@@ -20,7 +20,7 @@ public class triggera : MonoBehaviour
                     return;
                 player.moveSpeed = 0;
                 LevelEnd.SetActive(true);
-                textdisa.SetActive(false);
+            textdisa.SetActive(false);
         }
             if (triggeraaw == true)
             {

@@ -140,7 +140,6 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 fc432a39eaeef78297108013f8d37dcf Assembly-CSharp.dll:MaterialUI.ToastAnim
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.norotate
-600324faf29ea41172e237e18b5c61c6 Assembly-CSharp.dll:.EmptyEnumeration
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:MaterialUI.SelectionBoxSubscriber
 653af8f619e12c983ea590c735eeba09 Assembly-CSharp.dll:MaterialUI.InputFieldConfig
 c5b77decb97ffc0c36e810b155d27dde Assembly-CSharp.dll:Tiled2Unity.TiledMap
@@ -156,7 +155,7 @@ e5d9ab3e3afae89fd535a121729c2aad Assembly-CSharp.dll:.Example05
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.Editor.Placeholder
 e024402a708ba845635b872ee0cb1f0d Assembly-CSharp.dll:MaterialUI.Toaster
-af712684cc9c87e02b22a4963892de72 Assembly-CSharp.dll:.GameController
+a2fb81737197952430437076e92e3f64 Assembly-CSharp.dll:.GameController
 0ea7e3a1b65cd933d7a007e6774c4eaa Assembly-CSharp.dll:.camerafollow
 f149f24230a6358c2804c5fae71459a2 Assembly-CSharp.dll:Tiled2Unity.TileAnimator
 cfa2adad5b48d50b0a3520304737bded Assembly-CSharp.dll:.SetAudioLevels
@@ -219,5 +218,5 @@ b941e5d5541017f7fc2491d321d8de84 Assembly-CSharp.dll:.triggera
 403fcf569ca34c9e12ec24b843c7a1d1 Assembly-CSharp.dll:.Example04
 a885b5718618457f4959f03284f3d6c2 Assembly-CSharp.dll:MaterialUI.TextInputLine
 df2258f902d0c8c13ac4f3bdcf9b69d5 Assembly-CSharp.dll:.screenfader
-240a19ef670ccb6b2ee763c9c5867f93 Assembly-CSharp.dll:.gameover
+fe7585337d0c080112917a0af6e68902 Assembly-CSharp.dll:.gameover
 5ab1677d31916f29db021c86cd24d748 Assembly-CSharp.dll:MaterialUI.MenuArrowAnim
