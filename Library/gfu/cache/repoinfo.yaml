@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-05-03T01:02:55.4636583+01:00
-  initializedAtString: 2018-05-03T01:02:55.4636583+01:00
+  lastUpdatedAtString: 2018-05-14T19:38:16.1909072+01:00
+  initializedAtString: 2018-05-14T19:38:16.1909072+01:00
   currentGitRemote:
     name: origin
-    url: https://github.com/rikyribeiro3000/PAP-project
+    url: https://github.com/rikyribeiro3000/PAP-project.git
     login: 
     user: 
     host: 
@@ -29,8 +29,8 @@ MonoBehaviour:
     name: master
     remote:
       name: origin
-      url: https://github.com/rikyribeiro3000/PAP-project
+      url: https://github.com/rikyribeiro3000/PAP-project.git
     trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: https://github.com/rikyribeiro3000/PAP-project
+    url: https://github.com/rikyribeiro3000/PAP-project.git
