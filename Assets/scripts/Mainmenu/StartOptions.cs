@@ -84,8 +84,7 @@ public class StartOptions : MonoBehaviour {
 
     }
 
-
-	public void PlayNewMusic()
+    public void PlayNewMusic()
 	{
 		//Fade up music nearly instantly without a click 
 		playMusic.FadeUp (fastFadeIn);

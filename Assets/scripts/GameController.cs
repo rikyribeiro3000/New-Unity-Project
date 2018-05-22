@@ -28,7 +28,8 @@ public class GameController : MonoBehaviour
 
 
     void Start()
-    {
+    {   
+        
         if (unansweredQuestions == null || unansweredQuestions.Count == 0)  // if the list of questions has nathing in it then get all the gestions from the Question list
         {
             unansweredQuestions = questions.ToList<Question>();
@@ -43,7 +44,6 @@ public class GameController : MonoBehaviour
     {
         int randomQuestionsIndex = Random.Range(0, unansweredQuestions.Count); //randomize the question 
         currentQuestion = questions[randomQuestionsIndex];
-
         if (currentQuestion.isTrue) //if the currentquestion bolean is true then do this
         {
             trueAnswerText.text = "Verdadeiro";
