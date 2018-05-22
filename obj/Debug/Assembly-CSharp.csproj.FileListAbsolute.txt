@@ -72,3 +72,7 @@ C:\Users\ricardo~\Documents\PAP-project-master\obj\Debug\Assembly-CSharp.csprojR
 C:\Users\ricardo~\Documents\PAP-project-master\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 C:\Users\ricardo~\Documents\PAP-project-master\obj\Debug\Assembly-CSharp.dll
 C:\Users\ricardo~\Documents\PAP-project-master\obj\Debug\Assembly-CSharp.pdb
+C:\Users\ricardo~\Desktop\New Unity Project\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\ricardo~\Desktop\New Unity Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\ricardo~\Desktop\New Unity Project\obj\Debug\Assembly-CSharp.dll
+C:\Users\ricardo~\Desktop\New Unity Project\obj\Debug\Assembly-CSharp.pdb

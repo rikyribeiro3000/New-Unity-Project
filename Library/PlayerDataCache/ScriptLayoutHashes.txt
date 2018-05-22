@@ -217,6 +217,6 @@ b941e5d5541017f7fc2491d321d8de84 Assembly-CSharp.dll:.triggera
 403fcf569ca34c9e12ec24b843c7a1d1 Assembly-CSharp.dll:.Example04
 a885b5718618457f4959f03284f3d6c2 Assembly-CSharp.dll:MaterialUI.TextInputLine
 df2258f902d0c8c13ac4f3bdcf9b69d5 Assembly-CSharp.dll:.screenfader
-fe7585337d0c080112917a0af6e68902 Assembly-CSharp.dll:.gameover
+2531e1939609a9dd470db362f6d5a07f Assembly-CSharp.dll:.gameover
 3c1fa4ffd64cc13477154a9061bf208c Assembly-CSharp.dll:.ShowPanels
 5ab1677d31916f29db021c86cd24d748 Assembly-CSharp.dll:MaterialUI.MenuArrowAnim

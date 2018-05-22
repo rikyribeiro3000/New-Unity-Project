@@ -112,6 +112,7 @@
      <Compile Include="Assets\scripts\respostadava.cs" />
      <Compile Include="Assets\scripts\respostadavb.cs" />
      <Compile Include="Assets\scripts\restart.cs" />
+     <Compile Include="Assets\scripts\save.cs" />
      <Compile Include="Assets\scripts\screenfader.cs" />
      <Compile Include="Assets\scripts\triggera.cs" />
      <Compile Include="Assets\scripts\triggera2.cs" />
