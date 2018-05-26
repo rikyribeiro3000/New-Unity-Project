@@ -13,7 +13,7 @@ public class camerafollow : MonoBehaviour {
 		
 	}
 	void Update () {
-
+                
         mycam.orthographicSize = (Screen.height / 100f) / 1.5f;
 
 

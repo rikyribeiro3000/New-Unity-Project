@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-05-22T08:41:19.8197225+01:00
-  initializedAtString: 2018-05-22T08:41:12.0131764+01:00
+  lastUpdatedAtString: 2018-05-25T22:12:09.7560086+01:00
+  initializedAtString: 2018-05-25T18:48:36.4110234+01:00
   entries:
   - path: .vs\New Unity Project\v15\.suo
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\.vs\New Unity Project\v15\.suo
@@ -27,29 +27,233 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Assembly-CSharp.csproj
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
+  - path: .vs\New Unity Project\v15\Server\sqlite3\storage.ide-shm
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\.vs\New Unity Project\v15\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\New Unity Project\v15\Server\sqlite3\storage.ide-shm
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Assets\art\roguelikeSheet_transparent.png
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\art\roguelikeSheet_transparent.png
-    projectPath: Assets\art\roguelikeSheet_transparent.png
+  - path: .vs\New Unity Project\v15\Server\sqlite3\storage.ide-wal
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\.vs\New Unity Project\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\New Unity Project\v15\Server\sqlite3\storage.ide-wal
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
-  - path: Assets\art\roguelikeSheet_transparent.png.meta
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\art\roguelikeSheet_transparent.png.meta
-    projectPath: Assets\art\roguelikeSheet_transparent.png.meta
+  - path: Assets\audio\cometgn.wav
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\cometgn.wav
+    projectPath: Assets\audio\cometgn.wav
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
-  - path: Assets\Menu.meta
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\Menu.meta
-    projectPath: Assets\Menu.meta
+  - path: Assets\audio\cometgn.wav.meta
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\cometgn.wav.meta
+    projectPath: Assets\audio\cometgn.wav.meta
     originalPath: 
-    status: 3
+    status: 1
+    staged: 0
+  - path: Assets\audio\comething.wav
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\comething.wav
+    projectPath: Assets\audio\comething.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\comething.wav.meta
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\comething.wav.meta
+    projectPath: Assets\audio\comething.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Default.wav
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Default.wav
+    projectPath: Assets\audio\Default.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Default.wav.meta
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Default.wav.meta
+    projectPath: Assets\audio\Default.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize.wav
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize.wav
+    projectPath: Assets\audio\Randomize.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize.wav.meta
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize.wav.meta
+    projectPath: Assets\audio\Randomize.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize10.wav
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize10.wav
+    projectPath: Assets\audio\Randomize10.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize10.wav.meta
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize10.wav.meta
+    projectPath: Assets\audio\Randomize10.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize11.wav
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize11.wav
+    projectPath: Assets\audio\Randomize11.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize11.wav.meta
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize11.wav.meta
+    projectPath: Assets\audio\Randomize11.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize12.wav
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize12.wav
+    projectPath: Assets\audio\Randomize12.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize12.wav.meta
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize12.wav.meta
+    projectPath: Assets\audio\Randomize12.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize13.wav
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize13.wav
+    projectPath: Assets\audio\Randomize13.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize13.wav.meta
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize13.wav.meta
+    projectPath: Assets\audio\Randomize13.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize14.wav
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize14.wav
+    projectPath: Assets\audio\Randomize14.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize14.wav.meta
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize14.wav.meta
+    projectPath: Assets\audio\Randomize14.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize15.wav
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize15.wav
+    projectPath: Assets\audio\Randomize15.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize15.wav.meta
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize15.wav.meta
+    projectPath: Assets\audio\Randomize15.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize2.wav
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize2.wav
+    projectPath: Assets\audio\Randomize2.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize2.wav.meta
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize2.wav.meta
+    projectPath: Assets\audio\Randomize2.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize3.wav
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize3.wav
+    projectPath: Assets\audio\Randomize3.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize3.wav.meta
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize3.wav.meta
+    projectPath: Assets\audio\Randomize3.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize4.wav
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize4.wav
+    projectPath: Assets\audio\Randomize4.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize4.wav.meta
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize4.wav.meta
+    projectPath: Assets\audio\Randomize4.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize5.wav
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize5.wav
+    projectPath: Assets\audio\Randomize5.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize5.wav.meta
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize5.wav.meta
+    projectPath: Assets\audio\Randomize5.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize6.wav
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize6.wav
+    projectPath: Assets\audio\Randomize6.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize6.wav.meta
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize6.wav.meta
+    projectPath: Assets\audio\Randomize6.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize7.wav
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize7.wav
+    projectPath: Assets\audio\Randomize7.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize7.wav.meta
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize7.wav.meta
+    projectPath: Assets\audio\Randomize7.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize8.wav
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize8.wav
+    projectPath: Assets\audio\Randomize8.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize8.wav.meta
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize8.wav.meta
+    projectPath: Assets\audio\Randomize8.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize9.wav
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize9.wav
+    projectPath: Assets\audio\Randomize9.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\audio\Randomize9.wav.meta
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\audio\Randomize9.wav.meta
+    projectPath: Assets\audio\Randomize9.wav.meta
+    originalPath: 
+    status: 1
     staged: 0
   - path: Assets\scenes\~ik.unity
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\scenes\~ik.unity
@@ -57,9 +261,69 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\scenes\Main.unity
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\scenes\Main.unity
-    projectPath: Assets\scenes\Main.unity
+  - path: Assets\scripts\camerafollow.cs
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\scripts\camerafollow.cs
+    projectPath: Assets\scripts\camerafollow.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\scripts\gameover.cs
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\scripts\gameover.cs
+    projectPath: Assets\scripts\gameover.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\scripts\respostadava.cs
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\scripts\respostadava.cs
+    projectPath: Assets\scripts\respostadava.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\scripts\respostadavb.cs
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\scripts\respostadavb.cs
+    projectPath: Assets\scripts\respostadavb.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\scripts\triggera.cs
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\scripts\triggera.cs
+    projectPath: Assets\scripts\triggera.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\scripts\triggera2.cs
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\scripts\triggera2.cs
+    projectPath: Assets\scripts\triggera2.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\scripts\triggera3.cs
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\scripts\triggera3.cs
+    projectPath: Assets\scripts\triggera3.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\scripts\triggerab3.cs
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\scripts\triggerab3.cs
+    projectPath: Assets\scripts\triggerab3.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\scripts\triggerb.cs
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\scripts\triggerb.cs
+    projectPath: Assets\scripts\triggerb.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\scripts\triggerb2.cs
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\scripts\triggerb2.cs
+    projectPath: Assets\scripts\triggerb2.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\scripts\warp.cs
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Assets\scripts\warp.cs
+    projectPath: Assets\scripts\warp.cs
     originalPath: 
     status: 3
     staged: 0
@@ -81,33 +345,27 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Library\EditorInstance.json
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\expandedItems
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\expandedItems
-    projectPath: Library\expandedItems
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
     originalPath: 
     status: 3
     staged: 0
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -141,51 +399,189 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\LastSceneManagerSetup.txt
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\LastSceneManagerSetup.txt
-    projectPath: Library\LastSceneManagerSetup.txt
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library\metadata\00\00000000000000004000000000000000
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\00\00000000000000004000000000000000
     projectPath: Library\metadata\00\00000000000000004000000000000000
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\01\01cd679a1b9ee48bf9c546f6ce2cb97e
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\01\01cd679a1b9ee48bf9c546f6ce2cb97e
-    projectPath: Library\metadata\01\01cd679a1b9ee48bf9c546f6ce2cb97e
+  - path: Library\metadata\18\18f838195f5384f4184512b5c951c17a
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\18\18f838195f5384f4184512b5c951c17a
+    projectPath: Library\metadata\18\18f838195f5384f4184512b5c951c17a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\18\18f838195f5384f4184512b5c951c17a.info
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\18\18f838195f5384f4184512b5c951c17a.info
+    projectPath: Library\metadata\18\18f838195f5384f4184512b5c951c17a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\18\18f838195f5384f4184512b5c951c17a.resource
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\18\18f838195f5384f4184512b5c951c17a.resource
+    projectPath: Library\metadata\18\18f838195f5384f4184512b5c951c17a.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\1b\1b55ec78ee6972d4f8523d81e02c2e79
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\1b\1b55ec78ee6972d4f8523d81e02c2e79
+    projectPath: Library\metadata\1b\1b55ec78ee6972d4f8523d81e02c2e79
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\01\01cd679a1b9ee48bf9c546f6ce2cb97e.info
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\01\01cd679a1b9ee48bf9c546f6ce2cb97e.info
-    projectPath: Library\metadata\01\01cd679a1b9ee48bf9c546f6ce2cb97e.info
+  - path: Library\metadata\1d\1d2859bc0527ae141a9e1febafcd3081
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\1d\1d2859bc0527ae141a9e1febafcd3081
+    projectPath: Library\metadata\1d\1d2859bc0527ae141a9e1febafcd3081
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\1d\1d2859bc0527ae141a9e1febafcd3081.info
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\1d\1d2859bc0527ae141a9e1febafcd3081.info
+    projectPath: Library\metadata\1d\1d2859bc0527ae141a9e1febafcd3081.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\1d\1d2859bc0527ae141a9e1febafcd3081.resource
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\1d\1d2859bc0527ae141a9e1febafcd3081.resource
+    projectPath: Library\metadata\1d\1d2859bc0527ae141a9e1febafcd3081.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\28\28f7692a6629ab24a9b420cd2faa90ee
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\28\28f7692a6629ab24a9b420cd2faa90ee
+    projectPath: Library\metadata\28\28f7692a6629ab24a9b420cd2faa90ee
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\28\28f7692a6629ab24a9b420cd2faa90ee.info
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\28\28f7692a6629ab24a9b420cd2faa90ee.info
+    projectPath: Library\metadata\28\28f7692a6629ab24a9b420cd2faa90ee.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\28\28f7692a6629ab24a9b420cd2faa90ee.resource
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\28\28f7692a6629ab24a9b420cd2faa90ee.resource
+    projectPath: Library\metadata\28\28f7692a6629ab24a9b420cd2faa90ee.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\41\4159f13287cac3044a028166998472a5
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\41\4159f13287cac3044a028166998472a5
+    projectPath: Library\metadata\41\4159f13287cac3044a028166998472a5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\41\4159f13287cac3044a028166998472a5.info
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\41\4159f13287cac3044a028166998472a5.info
+    projectPath: Library\metadata\41\4159f13287cac3044a028166998472a5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\41\4159f13287cac3044a028166998472a5.resource
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\41\4159f13287cac3044a028166998472a5.resource
+    projectPath: Library\metadata\41\4159f13287cac3044a028166998472a5.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\41\41ad77479f882ba4b897af1d2d26924b
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\41\41ad77479f882ba4b897af1d2d26924b
+    projectPath: Library\metadata\41\41ad77479f882ba4b897af1d2d26924b
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\2c\2c99f8cf1ee7f88489bc745758bb07d4
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\2c\2c99f8cf1ee7f88489bc745758bb07d4
-    projectPath: Library\metadata\2c\2c99f8cf1ee7f88489bc745758bb07d4
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\2c\2c99f8cf1ee7f88489bc745758bb07d4.info
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\2c\2c99f8cf1ee7f88489bc745758bb07d4.info
-    projectPath: Library\metadata\2c\2c99f8cf1ee7f88489bc745758bb07d4.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\2c\2cb82b2015c22f3418665236bc4f55dc
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\2c\2cb82b2015c22f3418665236bc4f55dc
-    projectPath: Library\metadata\2c\2cb82b2015c22f3418665236bc4f55dc
+  - path: Library\metadata\5d\5db9337e7303be741852cbc133fe743d
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\5d\5db9337e7303be741852cbc133fe743d
+    projectPath: Library\metadata\5d\5db9337e7303be741852cbc133fe743d
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\4a\4a1df14eeb3e09442b947e8521894635
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\4a\4a1df14eeb3e09442b947e8521894635
-    projectPath: Library\metadata\4a\4a1df14eeb3e09442b947e8521894635
+  - path: Library\metadata\63\635398478a649b4418285d1497f3d20f
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\63\635398478a649b4418285d1497f3d20f
+    projectPath: Library\metadata\63\635398478a649b4418285d1497f3d20f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\63\635398478a649b4418285d1497f3d20f.info
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\63\635398478a649b4418285d1497f3d20f.info
+    projectPath: Library\metadata\63\635398478a649b4418285d1497f3d20f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\63\635398478a649b4418285d1497f3d20f.resource
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\63\635398478a649b4418285d1497f3d20f.resource
+    projectPath: Library\metadata\63\635398478a649b4418285d1497f3d20f.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\67\67839a6fc6e234b44b7d33fb08f8e956
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\67\67839a6fc6e234b44b7d33fb08f8e956
+    projectPath: Library\metadata\67\67839a6fc6e234b44b7d33fb08f8e956
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\6e\6e5ae054a6e5f214fb81de0b2061ee42
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\6e\6e5ae054a6e5f214fb81de0b2061ee42
+    projectPath: Library\metadata\6e\6e5ae054a6e5f214fb81de0b2061ee42
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\6e\6e5ae054a6e5f214fb81de0b2061ee42.info
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\6e\6e5ae054a6e5f214fb81de0b2061ee42.info
+    projectPath: Library\metadata\6e\6e5ae054a6e5f214fb81de0b2061ee42.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\6e\6e5ae054a6e5f214fb81de0b2061ee42.resource
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\6e\6e5ae054a6e5f214fb81de0b2061ee42.resource
+    projectPath: Library\metadata\6e\6e5ae054a6e5f214fb81de0b2061ee42.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\6f\6f1c9e94aad77dc47b44964c1986f0d9
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\6f\6f1c9e94aad77dc47b44964c1986f0d9
+    projectPath: Library\metadata\6f\6f1c9e94aad77dc47b44964c1986f0d9
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\71\71f8ac75f148f2e48b1a47e71cf4a0bc
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\71\71f8ac75f148f2e48b1a47e71cf4a0bc
+    projectPath: Library\metadata\71\71f8ac75f148f2e48b1a47e71cf4a0bc
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\71\71f8ac75f148f2e48b1a47e71cf4a0bc.info
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\71\71f8ac75f148f2e48b1a47e71cf4a0bc.info
+    projectPath: Library\metadata\71\71f8ac75f148f2e48b1a47e71cf4a0bc.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\71\71f8ac75f148f2e48b1a47e71cf4a0bc.resource
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\71\71f8ac75f148f2e48b1a47e71cf4a0bc.resource
+    projectPath: Library\metadata\71\71f8ac75f148f2e48b1a47e71cf4a0bc.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\75\75bf329573b6244428f0ec2439d854b7
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\75\75bf329573b6244428f0ec2439d854b7
+    projectPath: Library\metadata\75\75bf329573b6244428f0ec2439d854b7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\75\75bf329573b6244428f0ec2439d854b7.info
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\75\75bf329573b6244428f0ec2439d854b7.info
+    projectPath: Library\metadata\75\75bf329573b6244428f0ec2439d854b7.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\75\75bf329573b6244428f0ec2439d854b7.resource
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\75\75bf329573b6244428f0ec2439d854b7.resource
+    projectPath: Library\metadata\75\75bf329573b6244428f0ec2439d854b7.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\78\7824fc44364fd5e4dbcd9ad719baa830
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\78\7824fc44364fd5e4dbcd9ad719baa830
+    projectPath: Library\metadata\78\7824fc44364fd5e4dbcd9ad719baa830
     originalPath: 
     status: 3
     staged: 0
@@ -195,33 +591,213 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\7d\7db0c87ec4fdb0e48af04349c4f14df9.info
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\7d\7db0c87ec4fdb0e48af04349c4f14df9.info
-    projectPath: Library\metadata\7d\7db0c87ec4fdb0e48af04349c4f14df9.info
+  - path: Library\metadata\7b\7b0378d8f642a424ca9544992f79ca7c
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\7b\7b0378d8f642a424ca9544992f79ca7c
+    projectPath: Library\metadata\7b\7b0378d8f642a424ca9544992f79ca7c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\7b\7b0378d8f642a424ca9544992f79ca7c.info
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\7b\7b0378d8f642a424ca9544992f79ca7c.info
+    projectPath: Library\metadata\7b\7b0378d8f642a424ca9544992f79ca7c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\7b\7b0378d8f642a424ca9544992f79ca7c.resource
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\7b\7b0378d8f642a424ca9544992f79ca7c.resource
+    projectPath: Library\metadata\7b\7b0378d8f642a424ca9544992f79ca7c.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\82\82545e6fe53c1174d90ee225ba2a09c2
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\82\82545e6fe53c1174d90ee225ba2a09c2
+    projectPath: Library\metadata\82\82545e6fe53c1174d90ee225ba2a09c2
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\f3\f3146ed2a16adf3409ba144b2c4f8681
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\f3\f3146ed2a16adf3409ba144b2c4f8681
-    projectPath: Library\metadata\f3\f3146ed2a16adf3409ba144b2c4f8681
+  - path: Library\metadata\85\8595d8f0dc8a39c4ca89270eb5565e08
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\85\8595d8f0dc8a39c4ca89270eb5565e08
+    projectPath: Library\metadata\85\8595d8f0dc8a39c4ca89270eb5565e08
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\fa\fabf8568a0519f848b0a27a8c210d346
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\fa\fabf8568a0519f848b0a27a8c210d346
-    projectPath: Library\metadata\fa\fabf8568a0519f848b0a27a8c210d346
+  - path: Library\metadata\87\871f5436a53df7946845b8d9f144f0a1
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\87\871f5436a53df7946845b8d9f144f0a1
+    projectPath: Library\metadata\87\871f5436a53df7946845b8d9f144f0a1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\87\871f5436a53df7946845b8d9f144f0a1.info
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\87\871f5436a53df7946845b8d9f144f0a1.info
+    projectPath: Library\metadata\87\871f5436a53df7946845b8d9f144f0a1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\87\871f5436a53df7946845b8d9f144f0a1.resource
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\87\871f5436a53df7946845b8d9f144f0a1.resource
+    projectPath: Library\metadata\87\871f5436a53df7946845b8d9f144f0a1.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\88\88bb8f6716ee9fe4d8ef34d75e21bd17
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\88\88bb8f6716ee9fe4d8ef34d75e21bd17
+    projectPath: Library\metadata\88\88bb8f6716ee9fe4d8ef34d75e21bd17
     originalPath: 
     status: 3
+    staged: 0
+  - path: Library\metadata\a2\a23af21531d2fe84c998c8f16887c952
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\a2\a23af21531d2fe84c998c8f16887c952
+    projectPath: Library\metadata\a2\a23af21531d2fe84c998c8f16887c952
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a2\a23af21531d2fe84c998c8f16887c952.info
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\a2\a23af21531d2fe84c998c8f16887c952.info
+    projectPath: Library\metadata\a2\a23af21531d2fe84c998c8f16887c952.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a2\a23af21531d2fe84c998c8f16887c952.resource
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\a2\a23af21531d2fe84c998c8f16887c952.resource
+    projectPath: Library\metadata\a2\a23af21531d2fe84c998c8f16887c952.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a9\a9dff83b85c2f274a9ad99840ffe3a4f
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\a9\a9dff83b85c2f274a9ad99840ffe3a4f
+    projectPath: Library\metadata\a9\a9dff83b85c2f274a9ad99840ffe3a4f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a9\a9dff83b85c2f274a9ad99840ffe3a4f.info
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\a9\a9dff83b85c2f274a9ad99840ffe3a4f.info
+    projectPath: Library\metadata\a9\a9dff83b85c2f274a9ad99840ffe3a4f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a9\a9dff83b85c2f274a9ad99840ffe3a4f.resource
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\a9\a9dff83b85c2f274a9ad99840ffe3a4f.resource
+    projectPath: Library\metadata\a9\a9dff83b85c2f274a9ad99840ffe3a4f.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\b0\b07e3c502324e8d4284814e4e99d8904
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\b0\b07e3c502324e8d4284814e4e99d8904
+    projectPath: Library\metadata\b0\b07e3c502324e8d4284814e4e99d8904
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\b0\b07e3c502324e8d4284814e4e99d8904.info
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\b0\b07e3c502324e8d4284814e4e99d8904.info
+    projectPath: Library\metadata\b0\b07e3c502324e8d4284814e4e99d8904.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\b0\b07e3c502324e8d4284814e4e99d8904.resource
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\b0\b07e3c502324e8d4284814e4e99d8904.resource
+    projectPath: Library\metadata\b0\b07e3c502324e8d4284814e4e99d8904.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d6\d6219dac2737c2c429792c3a4ba83810
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\d6\d6219dac2737c2c429792c3a4ba83810
+    projectPath: Library\metadata\d6\d6219dac2737c2c429792c3a4ba83810
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\ee\ee014a18c4f0d95468c24c688caa4763
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\ee\ee014a18c4f0d95468c24c688caa4763
+    projectPath: Library\metadata\ee\ee014a18c4f0d95468c24c688caa4763
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ee\ee014a18c4f0d95468c24c688caa4763.info
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\ee\ee014a18c4f0d95468c24c688caa4763.info
+    projectPath: Library\metadata\ee\ee014a18c4f0d95468c24c688caa4763.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ee\ee014a18c4f0d95468c24c688caa4763.resource
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\ee\ee014a18c4f0d95468c24c688caa4763.resource
+    projectPath: Library\metadata\ee\ee014a18c4f0d95468c24c688caa4763.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ef\ef4c3465dc305ba4ab26a035c431f79d
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\ef\ef4c3465dc305ba4ab26a035c431f79d
+    projectPath: Library\metadata\ef\ef4c3465dc305ba4ab26a035c431f79d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ef\ef4c3465dc305ba4ab26a035c431f79d.info
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\ef\ef4c3465dc305ba4ab26a035c431f79d.info
+    projectPath: Library\metadata\ef\ef4c3465dc305ba4ab26a035c431f79d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ef\ef4c3465dc305ba4ab26a035c431f79d.resource
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\ef\ef4c3465dc305ba4ab26a035c431f79d.resource
+    projectPath: Library\metadata\ef\ef4c3465dc305ba4ab26a035c431f79d.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f0\f03d714c0fde034478e26819ab3db171
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\f0\f03d714c0fde034478e26819ab3db171
+    projectPath: Library\metadata\f0\f03d714c0fde034478e26819ab3db171
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f0\f03d714c0fde034478e26819ab3db171.info
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\f0\f03d714c0fde034478e26819ab3db171.info
+    projectPath: Library\metadata\f0\f03d714c0fde034478e26819ab3db171.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f0\f03d714c0fde034478e26819ab3db171.resource
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\f0\f03d714c0fde034478e26819ab3db171.resource
+    projectPath: Library\metadata\f0\f03d714c0fde034478e26819ab3db171.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f3\f3d19d720a225d14baf3e4b9a646e166
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\f3\f3d19d720a225d14baf3e4b9a646e166
+    projectPath: Library\metadata\f3\f3d19d720a225d14baf3e4b9a646e166
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f3\f3d19d720a225d14baf3e4b9a646e166.info
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\f3\f3d19d720a225d14baf3e4b9a646e166.info
+    projectPath: Library\metadata\f3\f3d19d720a225d14baf3e4b9a646e166.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f3\f3d19d720a225d14baf3e4b9a646e166.resource
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\f3\f3d19d720a225d14baf3e4b9a646e166.resource
+    projectPath: Library\metadata\f3\f3d19d720a225d14baf3e4b9a646e166.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f7\f721746584f35f043bf31a187fd16ea6
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\f7\f721746584f35f043bf31a187fd16ea6
+    projectPath: Library\metadata\f7\f721746584f35f043bf31a187fd16ea6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f7\f721746584f35f043bf31a187fd16ea6.info
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\f7\f721746584f35f043bf31a187fd16ea6.info
+    projectPath: Library\metadata\f7\f721746584f35f043bf31a187fd16ea6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f7\f721746584f35f043bf31a187fd16ea6.resource
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\metadata\f7\f721746584f35f043bf31a187fd16ea6.resource
+    projectPath: Library\metadata\f7\f721746584f35f043bf31a187fd16ea6.resource
+    originalPath: 
+    status: 1
     staged: 0
   - path: Library\PlayerDataCache\Data\globalgamemanagers
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\PlayerDataCache\Data\globalgamemanagers
     projectPath: Library\PlayerDataCache\Data\globalgamemanagers
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\PlayerDataCache\Data\globalgamemanagers.assets
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\PlayerDataCache\Data\globalgamemanagers.assets
-    projectPath: Library\PlayerDataCache\Data\globalgamemanagers.assets
     originalPath: 
     status: 3
     staged: 0
@@ -243,36 +819,6 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\PlayerDataCache\Data\resources.assets
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\PlayerDataCache\Data\resources.assets
-    projectPath: Library\PlayerDataCache\Data\resources.assets
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\PlayerDataCache\Data\sharedassets0.assets
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\PlayerDataCache\Data\sharedassets0.assets
-    projectPath: Library\PlayerDataCache\Data\sharedassets0.assets
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\PlayerDataCache\Data\sharedassets1.assets
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\PlayerDataCache\Data\sharedassets1.assets
-    projectPath: Library\PlayerDataCache\Data\sharedassets1.assets
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\PlayerDataCache\ScriptLayoutHashes.txt
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\PlayerDataCache\ScriptLayoutHashes.txt
-    projectPath: Library\PlayerDataCache\ScriptLayoutHashes.txt
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\ProjectSettings.asset
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\ProjectSettings.asset
-    projectPath: Library\ProjectSettings.asset
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -285,1625 +831,826 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+  - path: New Unity Project.userprefs
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\New Unity Project.userprefs
+    projectPath: New Unity Project.userprefs
     originalPath: 
     status: 3
+    staged: 0
+  - path: New Unity Project.zip
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\New Unity Project.zip
+    projectPath: New Unity Project.zip
+    originalPath: 
+    status: 1
     staged: 0
   - path: nuncavaispassar.exe
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar.exe
     projectPath: nuncavaispassar.exe
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\app.info
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\app.info
     projectPath: nuncavaispassar_Data\app.info
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\boot.config
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\boot.config
     projectPath: nuncavaispassar_Data\boot.config
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\globalgamemanagers
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\globalgamemanagers
     projectPath: nuncavaispassar_Data\globalgamemanagers
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\globalgamemanagers.assets
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\globalgamemanagers.assets
     projectPath: nuncavaispassar_Data\globalgamemanagers.assets
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\level0
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\level0
     projectPath: nuncavaispassar_Data\level0
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\level0.resS
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\level0.resS
     projectPath: nuncavaispassar_Data\level0.resS
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\level1
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\level1
     projectPath: nuncavaispassar_Data\level1
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\Assembly-CSharp.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\Assembly-CSharp.dll
     projectPath: nuncavaispassar_Data\Managed\Assembly-CSharp.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\Mono.Security.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\Mono.Security.dll
     projectPath: nuncavaispassar_Data\Managed\Mono.Security.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\mscorlib.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\mscorlib.dll
     projectPath: nuncavaispassar_Data\Managed\mscorlib.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\System.Core.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\System.Core.dll
     projectPath: nuncavaispassar_Data\Managed\System.Core.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\System.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\System.dll
     projectPath: nuncavaispassar_Data\Managed\System.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.AccessibilityModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.AccessibilityModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.AccessibilityModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.AccessibilityModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.AccessibilityModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.AccessibilityModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.AIModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.AIModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.AIModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.AIModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.AIModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.AIModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.Analytics.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.Analytics.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.Analytics.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.AnimationModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.AnimationModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.AnimationModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.AnimationModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.AnimationModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.AnimationModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.ARModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.ARModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.ARModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.ARModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.ARModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.ARModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.AssetBundleModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.AssetBundleModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.AssetBundleModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.AssetBundleModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.AssetBundleModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.AssetBundleModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.AudioModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.AudioModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.AudioModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.AudioModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.AudioModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.AudioModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.ClothModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.ClothModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.ClothModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.ClothModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.ClothModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.ClothModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.ClusterInputModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.ClusterInputModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.ClusterInputModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.ClusterInputModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.ClusterInputModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.ClusterInputModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.ClusterRendererModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.ClusterRendererModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.ClusterRendererModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.ClusterRendererModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.ClusterRendererModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.ClusterRendererModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.CoreModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.CoreModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.CoreModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.CoreModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.CoreModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.CoreModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.CrashReportingModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.CrashReportingModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.CrashReportingModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.CrashReportingModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.CrashReportingModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.CrashReportingModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.DirectorModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.DirectorModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.DirectorModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.DirectorModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.DirectorModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.DirectorModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.GameCenterModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.GameCenterModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.GameCenterModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.GameCenterModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.GameCenterModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.GameCenterModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.GridModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.GridModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.GridModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.GridModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.GridModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.GridModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.ImageConversionModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.ImageConversionModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.ImageConversionModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.ImageConversionModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.ImageConversionModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.ImageConversionModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.IMGUIModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.IMGUIModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.IMGUIModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.IMGUIModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.IMGUIModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.IMGUIModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.InputModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.InputModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.InputModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.InputModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.InputModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.InputModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.JSONSerializeModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.JSONSerializeModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.JSONSerializeModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.JSONSerializeModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.JSONSerializeModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.JSONSerializeModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.Networking.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.Networking.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.Networking.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.ParticlesLegacyModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.ParticlesLegacyModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.ParticlesLegacyModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.ParticlesLegacyModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.ParticlesLegacyModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.ParticlesLegacyModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.ParticleSystemModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.ParticleSystemModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.ParticleSystemModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.ParticleSystemModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.ParticleSystemModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.ParticleSystemModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.PerformanceReportingModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.PerformanceReportingModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.PerformanceReportingModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.PerformanceReportingModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.PerformanceReportingModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.PerformanceReportingModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.Physics2DModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.Physics2DModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.Physics2DModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.Physics2DModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.Physics2DModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.Physics2DModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.PhysicsModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.PhysicsModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.PhysicsModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.PhysicsModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.PhysicsModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.PhysicsModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.ScreenCaptureModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.ScreenCaptureModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.ScreenCaptureModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.ScreenCaptureModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.ScreenCaptureModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.ScreenCaptureModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.SharedInternalsModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.SharedInternalsModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.SharedInternalsModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.SharedInternalsModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.SharedInternalsModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.SharedInternalsModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.SpatialTracking.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.SpatialTracking.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.SpatialTracking.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.SpriteMaskModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.SpriteMaskModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.SpriteMaskModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.SpriteMaskModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.SpriteMaskModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.SpriteMaskModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.SpriteShapeModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.SpriteShapeModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.SpriteShapeModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.SpriteShapeModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.SpriteShapeModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.SpriteShapeModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.StandardEvents.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.StandardEvents.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.StandardEvents.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.StyleSheetsModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.StyleSheetsModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.StyleSheetsModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.StyleSheetsModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.StyleSheetsModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.StyleSheetsModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.TerrainModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.TerrainModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.TerrainModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.TerrainModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.TerrainModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.TerrainModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.TerrainPhysicsModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.TerrainPhysicsModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.TerrainPhysicsModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.TextRenderingModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.TextRenderingModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.TextRenderingModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.TextRenderingModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.TextRenderingModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.TextRenderingModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.TilemapModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.TilemapModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.TilemapModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.TilemapModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.TilemapModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.TilemapModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.Timeline.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.Timeline.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.Timeline.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.UI.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.UI.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.UI.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.UIElementsModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.UIElementsModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.UIElementsModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.UIElementsModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.UIElementsModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.UIElementsModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.UIModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.UIModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.UIModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.UIModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.UIModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.UIModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.UNETModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.UNETModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.UNETModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.UNETModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.UNETModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.UNETModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.UnityAnalyticsModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.UnityAnalyticsModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.UnityAnalyticsModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.UnityConnectModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.UnityConnectModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.UnityConnectModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.UnityConnectModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.UnityConnectModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.UnityConnectModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.VehiclesModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.VehiclesModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.VehiclesModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.VehiclesModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.VehiclesModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.VehiclesModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.VideoModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.VideoModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.VideoModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.VideoModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.VideoModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.VideoModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.VRModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.VRModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.VRModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.VRModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.VRModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.VRModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.WebModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.WebModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.WebModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.WebModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.WebModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.WebModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.WindModule.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.WindModule.dll
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.WindModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Managed\UnityEngine.WindModule.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Managed\UnityEngine.WindModule.xml
     projectPath: nuncavaispassar_Data\Managed\UnityEngine.WindModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Mono\EmbedRuntime\mono.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Mono\EmbedRuntime\mono.dll
     projectPath: nuncavaispassar_Data\Mono\EmbedRuntime\mono.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Mono\EmbedRuntime\MonoPosixHelper.dll
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Mono\EmbedRuntime\MonoPosixHelper.dll
     projectPath: nuncavaispassar_Data\Mono\EmbedRuntime\MonoPosixHelper.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Mono\etc\mono\1.0\DefaultWsdlHelpGenerator.aspx
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Mono\etc\mono\1.0\DefaultWsdlHelpGenerator.aspx
     projectPath: nuncavaispassar_Data\Mono\etc\mono\1.0\DefaultWsdlHelpGenerator.aspx
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Mono\etc\mono\1.0\machine.config
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Mono\etc\mono\1.0\machine.config
     projectPath: nuncavaispassar_Data\Mono\etc\mono\1.0\machine.config
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Mono\etc\mono\2.0\Browsers\Compat.browser
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Mono\etc\mono\2.0\Browsers\Compat.browser
     projectPath: nuncavaispassar_Data\Mono\etc\mono\2.0\Browsers\Compat.browser
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Mono\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Mono\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
     projectPath: nuncavaispassar_Data\Mono\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Mono\etc\mono\2.0\machine.config
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Mono\etc\mono\2.0\machine.config
     projectPath: nuncavaispassar_Data\Mono\etc\mono\2.0\machine.config
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Mono\etc\mono\2.0\settings.map
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Mono\etc\mono\2.0\settings.map
     projectPath: nuncavaispassar_Data\Mono\etc\mono\2.0\settings.map
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Mono\etc\mono\2.0\web.config
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Mono\etc\mono\2.0\web.config
     projectPath: nuncavaispassar_Data\Mono\etc\mono\2.0\web.config
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Mono\etc\mono\browscap.ini
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Mono\etc\mono\browscap.ini
     projectPath: nuncavaispassar_Data\Mono\etc\mono\browscap.ini
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Mono\etc\mono\config
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Mono\etc\mono\config
     projectPath: nuncavaispassar_Data\Mono\etc\mono\config
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Mono\etc\mono\mconfig\config.xml
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Mono\etc\mono\mconfig\config.xml
     projectPath: nuncavaispassar_Data\Mono\etc\mono\mconfig\config.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\resources.assets
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\resources.assets
     projectPath: nuncavaispassar_Data\resources.assets
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\resources.assets.resS
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\resources.assets.resS
     projectPath: nuncavaispassar_Data\resources.assets.resS
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Resources\unity default resources
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Resources\unity
       default resources
     projectPath: nuncavaispassar_Data\Resources\unity default resources
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\Resources\unity_builtin_extra
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\Resources\unity_builtin_extra
     projectPath: nuncavaispassar_Data\Resources\unity_builtin_extra
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\sharedassets0.assets
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\sharedassets0.assets
     projectPath: nuncavaispassar_Data\sharedassets0.assets
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\sharedassets0.assets.resS
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\sharedassets0.assets.resS
     projectPath: nuncavaispassar_Data\sharedassets0.assets.resS
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\sharedassets0.resource
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\sharedassets0.resource
     projectPath: nuncavaispassar_Data\sharedassets0.resource
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\sharedassets1.assets
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\sharedassets1.assets
     projectPath: nuncavaispassar_Data\sharedassets1.assets
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\sharedassets1.assets.resS
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\sharedassets1.assets.resS
     projectPath: nuncavaispassar_Data\sharedassets1.assets.resS
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: nuncavaispassar_Data\sharedassets1.resource
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\nuncavaispassar_Data\sharedassets1.resource
     projectPath: nuncavaispassar_Data\sharedassets1.resource
     originalPath: 
-    status: 5
-    staged: 0
-  - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: obj\Debug\Assembly-CSharp.csproj.FileListAbsolute.txt
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\obj\Debug\Assembly-CSharp.csproj.FileListAbsolute.txt
-    projectPath: obj\Debug\Assembly-CSharp.csproj.FileListAbsolute.txt
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: ProjectSettings\ProjectSettings.asset
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\ProjectSettings\ProjectSettings.asset
-    projectPath: ProjectSettings\ProjectSettings.asset
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: s.exe
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s.exe
-    projectPath: s.exe
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\app.info
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\app.info
-    projectPath: s_Data\app.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\boot.config
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\boot.config
-    projectPath: s_Data\boot.config
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\globalgamemanagers
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\globalgamemanagers
-    projectPath: s_Data\globalgamemanagers
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\globalgamemanagers.assets
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\globalgamemanagers.assets
-    projectPath: s_Data\globalgamemanagers.assets
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\level0
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\level0
-    projectPath: s_Data\level0
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\Assembly-CSharp.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\Assembly-CSharp.dll
-    projectPath: s_Data\Managed\Assembly-CSharp.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\Mono.Security.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\Mono.Security.dll
-    projectPath: s_Data\Managed\Mono.Security.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\mscorlib.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\mscorlib.dll
-    projectPath: s_Data\Managed\mscorlib.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\System.Core.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\System.Core.dll
-    projectPath: s_Data\Managed\System.Core.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\System.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\System.dll
-    projectPath: s_Data\Managed\System.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.AccessibilityModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.AccessibilityModule.dll
-    projectPath: s_Data\Managed\UnityEngine.AccessibilityModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.AccessibilityModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.AccessibilityModule.xml
-    projectPath: s_Data\Managed\UnityEngine.AccessibilityModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.AIModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.AIModule.dll
-    projectPath: s_Data\Managed\UnityEngine.AIModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.AIModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.AIModule.xml
-    projectPath: s_Data\Managed\UnityEngine.AIModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.Analytics.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.Analytics.dll
-    projectPath: s_Data\Managed\UnityEngine.Analytics.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.AnimationModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.AnimationModule.dll
-    projectPath: s_Data\Managed\UnityEngine.AnimationModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.AnimationModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.AnimationModule.xml
-    projectPath: s_Data\Managed\UnityEngine.AnimationModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.ARModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.ARModule.dll
-    projectPath: s_Data\Managed\UnityEngine.ARModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.ARModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.ARModule.xml
-    projectPath: s_Data\Managed\UnityEngine.ARModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.AssetBundleModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.AssetBundleModule.dll
-    projectPath: s_Data\Managed\UnityEngine.AssetBundleModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.AssetBundleModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.AssetBundleModule.xml
-    projectPath: s_Data\Managed\UnityEngine.AssetBundleModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.AudioModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.AudioModule.dll
-    projectPath: s_Data\Managed\UnityEngine.AudioModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.AudioModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.AudioModule.xml
-    projectPath: s_Data\Managed\UnityEngine.AudioModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.ClothModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.ClothModule.dll
-    projectPath: s_Data\Managed\UnityEngine.ClothModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.ClothModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.ClothModule.xml
-    projectPath: s_Data\Managed\UnityEngine.ClothModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.ClusterInputModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.ClusterInputModule.dll
-    projectPath: s_Data\Managed\UnityEngine.ClusterInputModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.ClusterInputModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.ClusterInputModule.xml
-    projectPath: s_Data\Managed\UnityEngine.ClusterInputModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.ClusterRendererModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.ClusterRendererModule.dll
-    projectPath: s_Data\Managed\UnityEngine.ClusterRendererModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.ClusterRendererModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.ClusterRendererModule.xml
-    projectPath: s_Data\Managed\UnityEngine.ClusterRendererModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.CoreModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.CoreModule.dll
-    projectPath: s_Data\Managed\UnityEngine.CoreModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.CoreModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.CoreModule.xml
-    projectPath: s_Data\Managed\UnityEngine.CoreModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.CrashReportingModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.CrashReportingModule.dll
-    projectPath: s_Data\Managed\UnityEngine.CrashReportingModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.CrashReportingModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.CrashReportingModule.xml
-    projectPath: s_Data\Managed\UnityEngine.CrashReportingModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.DirectorModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.DirectorModule.dll
-    projectPath: s_Data\Managed\UnityEngine.DirectorModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.DirectorModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.DirectorModule.xml
-    projectPath: s_Data\Managed\UnityEngine.DirectorModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.dll
-    projectPath: s_Data\Managed\UnityEngine.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.GameCenterModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.GameCenterModule.dll
-    projectPath: s_Data\Managed\UnityEngine.GameCenterModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.GameCenterModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.GameCenterModule.xml
-    projectPath: s_Data\Managed\UnityEngine.GameCenterModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.GridModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.GridModule.dll
-    projectPath: s_Data\Managed\UnityEngine.GridModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.GridModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.GridModule.xml
-    projectPath: s_Data\Managed\UnityEngine.GridModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.ImageConversionModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.ImageConversionModule.dll
-    projectPath: s_Data\Managed\UnityEngine.ImageConversionModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.ImageConversionModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.ImageConversionModule.xml
-    projectPath: s_Data\Managed\UnityEngine.ImageConversionModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.IMGUIModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.IMGUIModule.dll
-    projectPath: s_Data\Managed\UnityEngine.IMGUIModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.IMGUIModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.IMGUIModule.xml
-    projectPath: s_Data\Managed\UnityEngine.IMGUIModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.InputModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.InputModule.dll
-    projectPath: s_Data\Managed\UnityEngine.InputModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.InputModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.InputModule.xml
-    projectPath: s_Data\Managed\UnityEngine.InputModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.JSONSerializeModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.JSONSerializeModule.dll
-    projectPath: s_Data\Managed\UnityEngine.JSONSerializeModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.JSONSerializeModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.JSONSerializeModule.xml
-    projectPath: s_Data\Managed\UnityEngine.JSONSerializeModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.Networking.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.Networking.dll
-    projectPath: s_Data\Managed\UnityEngine.Networking.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.ParticlesLegacyModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.ParticlesLegacyModule.dll
-    projectPath: s_Data\Managed\UnityEngine.ParticlesLegacyModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.ParticlesLegacyModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.ParticlesLegacyModule.xml
-    projectPath: s_Data\Managed\UnityEngine.ParticlesLegacyModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.ParticleSystemModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.ParticleSystemModule.dll
-    projectPath: s_Data\Managed\UnityEngine.ParticleSystemModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.ParticleSystemModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.ParticleSystemModule.xml
-    projectPath: s_Data\Managed\UnityEngine.ParticleSystemModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.PerformanceReportingModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.PerformanceReportingModule.dll
-    projectPath: s_Data\Managed\UnityEngine.PerformanceReportingModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.PerformanceReportingModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.PerformanceReportingModule.xml
-    projectPath: s_Data\Managed\UnityEngine.PerformanceReportingModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.Physics2DModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.Physics2DModule.dll
-    projectPath: s_Data\Managed\UnityEngine.Physics2DModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.Physics2DModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.Physics2DModule.xml
-    projectPath: s_Data\Managed\UnityEngine.Physics2DModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.PhysicsModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.PhysicsModule.dll
-    projectPath: s_Data\Managed\UnityEngine.PhysicsModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.PhysicsModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.PhysicsModule.xml
-    projectPath: s_Data\Managed\UnityEngine.PhysicsModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.ScreenCaptureModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.ScreenCaptureModule.dll
-    projectPath: s_Data\Managed\UnityEngine.ScreenCaptureModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.ScreenCaptureModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.ScreenCaptureModule.xml
-    projectPath: s_Data\Managed\UnityEngine.ScreenCaptureModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.SharedInternalsModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.SharedInternalsModule.dll
-    projectPath: s_Data\Managed\UnityEngine.SharedInternalsModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.SharedInternalsModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.SharedInternalsModule.xml
-    projectPath: s_Data\Managed\UnityEngine.SharedInternalsModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.SpatialTracking.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.SpatialTracking.dll
-    projectPath: s_Data\Managed\UnityEngine.SpatialTracking.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.SpriteMaskModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.SpriteMaskModule.dll
-    projectPath: s_Data\Managed\UnityEngine.SpriteMaskModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.SpriteMaskModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.SpriteMaskModule.xml
-    projectPath: s_Data\Managed\UnityEngine.SpriteMaskModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.SpriteShapeModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.SpriteShapeModule.dll
-    projectPath: s_Data\Managed\UnityEngine.SpriteShapeModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.SpriteShapeModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.SpriteShapeModule.xml
-    projectPath: s_Data\Managed\UnityEngine.SpriteShapeModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.StandardEvents.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.StandardEvents.dll
-    projectPath: s_Data\Managed\UnityEngine.StandardEvents.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.StyleSheetsModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.StyleSheetsModule.dll
-    projectPath: s_Data\Managed\UnityEngine.StyleSheetsModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.StyleSheetsModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.StyleSheetsModule.xml
-    projectPath: s_Data\Managed\UnityEngine.StyleSheetsModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.TerrainModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.TerrainModule.dll
-    projectPath: s_Data\Managed\UnityEngine.TerrainModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.TerrainModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.TerrainModule.xml
-    projectPath: s_Data\Managed\UnityEngine.TerrainModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
-    projectPath: s_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.TerrainPhysicsModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.TerrainPhysicsModule.xml
-    projectPath: s_Data\Managed\UnityEngine.TerrainPhysicsModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.TextRenderingModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.TextRenderingModule.dll
-    projectPath: s_Data\Managed\UnityEngine.TextRenderingModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.TextRenderingModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.TextRenderingModule.xml
-    projectPath: s_Data\Managed\UnityEngine.TextRenderingModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.TilemapModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.TilemapModule.dll
-    projectPath: s_Data\Managed\UnityEngine.TilemapModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.TilemapModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.TilemapModule.xml
-    projectPath: s_Data\Managed\UnityEngine.TilemapModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.Timeline.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.Timeline.dll
-    projectPath: s_Data\Managed\UnityEngine.Timeline.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.UI.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.UI.dll
-    projectPath: s_Data\Managed\UnityEngine.UI.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.UIElementsModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.UIElementsModule.dll
-    projectPath: s_Data\Managed\UnityEngine.UIElementsModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.UIElementsModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.UIElementsModule.xml
-    projectPath: s_Data\Managed\UnityEngine.UIElementsModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.UIModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.UIModule.dll
-    projectPath: s_Data\Managed\UnityEngine.UIModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.UIModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.UIModule.xml
-    projectPath: s_Data\Managed\UnityEngine.UIModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.UNETModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.UNETModule.dll
-    projectPath: s_Data\Managed\UnityEngine.UNETModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.UNETModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.UNETModule.xml
-    projectPath: s_Data\Managed\UnityEngine.UNETModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
-    projectPath: s_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.UnityAnalyticsModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.UnityAnalyticsModule.xml
-    projectPath: s_Data\Managed\UnityEngine.UnityAnalyticsModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.UnityConnectModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.UnityConnectModule.dll
-    projectPath: s_Data\Managed\UnityEngine.UnityConnectModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.UnityConnectModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.UnityConnectModule.xml
-    projectPath: s_Data\Managed\UnityEngine.UnityConnectModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
-    projectPath: s_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
-    projectPath: s_Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.UnityWebRequestModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.UnityWebRequestModule.dll
-    projectPath: s_Data\Managed\UnityEngine.UnityWebRequestModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.UnityWebRequestModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.UnityWebRequestModule.xml
-    projectPath: s_Data\Managed\UnityEngine.UnityWebRequestModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
-    projectPath: s_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
-    projectPath: s_Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
-    projectPath: s_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
-    projectPath: s_Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.VehiclesModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.VehiclesModule.dll
-    projectPath: s_Data\Managed\UnityEngine.VehiclesModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.VehiclesModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.VehiclesModule.xml
-    projectPath: s_Data\Managed\UnityEngine.VehiclesModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.VideoModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.VideoModule.dll
-    projectPath: s_Data\Managed\UnityEngine.VideoModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.VideoModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.VideoModule.xml
-    projectPath: s_Data\Managed\UnityEngine.VideoModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.VRModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.VRModule.dll
-    projectPath: s_Data\Managed\UnityEngine.VRModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.VRModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.VRModule.xml
-    projectPath: s_Data\Managed\UnityEngine.VRModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.WebModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.WebModule.dll
-    projectPath: s_Data\Managed\UnityEngine.WebModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.WebModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.WebModule.xml
-    projectPath: s_Data\Managed\UnityEngine.WebModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.WindModule.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.WindModule.dll
-    projectPath: s_Data\Managed\UnityEngine.WindModule.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Managed\UnityEngine.WindModule.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Managed\UnityEngine.WindModule.xml
-    projectPath: s_Data\Managed\UnityEngine.WindModule.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Mono\EmbedRuntime\mono.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Mono\EmbedRuntime\mono.dll
-    projectPath: s_Data\Mono\EmbedRuntime\mono.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Mono\EmbedRuntime\MonoPosixHelper.dll
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Mono\EmbedRuntime\MonoPosixHelper.dll
-    projectPath: s_Data\Mono\EmbedRuntime\MonoPosixHelper.dll
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Mono\etc\mono\1.0\DefaultWsdlHelpGenerator.aspx
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Mono\etc\mono\1.0\DefaultWsdlHelpGenerator.aspx
-    projectPath: s_Data\Mono\etc\mono\1.0\DefaultWsdlHelpGenerator.aspx
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Mono\etc\mono\1.0\machine.config
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Mono\etc\mono\1.0\machine.config
-    projectPath: s_Data\Mono\etc\mono\1.0\machine.config
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Mono\etc\mono\2.0\Browsers\Compat.browser
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Mono\etc\mono\2.0\Browsers\Compat.browser
-    projectPath: s_Data\Mono\etc\mono\2.0\Browsers\Compat.browser
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Mono\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Mono\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
-    projectPath: s_Data\Mono\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Mono\etc\mono\2.0\machine.config
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Mono\etc\mono\2.0\machine.config
-    projectPath: s_Data\Mono\etc\mono\2.0\machine.config
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Mono\etc\mono\2.0\settings.map
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Mono\etc\mono\2.0\settings.map
-    projectPath: s_Data\Mono\etc\mono\2.0\settings.map
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Mono\etc\mono\2.0\web.config
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Mono\etc\mono\2.0\web.config
-    projectPath: s_Data\Mono\etc\mono\2.0\web.config
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Mono\etc\mono\browscap.ini
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Mono\etc\mono\browscap.ini
-    projectPath: s_Data\Mono\etc\mono\browscap.ini
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Mono\etc\mono\config
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Mono\etc\mono\config
-    projectPath: s_Data\Mono\etc\mono\config
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Mono\etc\mono\mconfig\config.xml
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Mono\etc\mono\mconfig\config.xml
-    projectPath: s_Data\Mono\etc\mono\mconfig\config.xml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\resources.assets
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\resources.assets
-    projectPath: s_Data\resources.assets
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\resources.assets.resS
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\resources.assets.resS
-    projectPath: s_Data\resources.assets.resS
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Resources\unity default resources
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Resources\unity default
-      resources
-    projectPath: s_Data\Resources\unity default resources
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\Resources\unity_builtin_extra
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\Resources\unity_builtin_extra
-    projectPath: s_Data\Resources\unity_builtin_extra
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\sharedassets0.assets
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\sharedassets0.assets
-    projectPath: s_Data\sharedassets0.assets
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\sharedassets0.assets.resS
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\sharedassets0.assets.resS
-    projectPath: s_Data\sharedassets0.assets.resS
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: s_Data\sharedassets0.resource
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\s_Data\sharedassets0.resource
-    projectPath: s_Data\sharedassets0.resource
-    originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp\__Backupscenes\0.backup
     fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
     originalPath: 
     status: 1
     staged: 0
@@ -1913,15 +1660,147 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-4f59da356a82397488aa0fd74a0d50de
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-4f59da356a82397488aa0fd74a0d50de
-    projectPath: Temp\UnityTempFile-4f59da356a82397488aa0fd74a0d50de
+  - path: Temp\UnityTempFile-00b831d815161f140ac907ef3ff3c533
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-00b831d815161f140ac907ef3ff3c533
+    projectPath: Temp\UnityTempFile-00b831d815161f140ac907ef3ff3c533
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-636456b591527d044966514f7df45b41
-    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-636456b591527d044966514f7df45b41
-    projectPath: Temp\UnityTempFile-636456b591527d044966514f7df45b41
+  - path: Temp\UnityTempFile-068dbb948fed53f4cb7d2a5d5147bd52
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-068dbb948fed53f4cb7d2a5d5147bd52
+    projectPath: Temp\UnityTempFile-068dbb948fed53f4cb7d2a5d5147bd52
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-0e0baa9766ce6c14788d1a8da37731b3
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-0e0baa9766ce6c14788d1a8da37731b3
+    projectPath: Temp\UnityTempFile-0e0baa9766ce6c14788d1a8da37731b3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-0f2d88c1c5de70c4996f13183a4e774b
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-0f2d88c1c5de70c4996f13183a4e774b
+    projectPath: Temp\UnityTempFile-0f2d88c1c5de70c4996f13183a4e774b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-1e2e7acfd2dfcce4087a7d41f951b933
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-1e2e7acfd2dfcce4087a7d41f951b933
+    projectPath: Temp\UnityTempFile-1e2e7acfd2dfcce4087a7d41f951b933
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-1f3bb86b2c261c54488f402bac5e5872
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-1f3bb86b2c261c54488f402bac5e5872
+    projectPath: Temp\UnityTempFile-1f3bb86b2c261c54488f402bac5e5872
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-210c0cb2b76db0244b592b1cb2cad77a
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-210c0cb2b76db0244b592b1cb2cad77a
+    projectPath: Temp\UnityTempFile-210c0cb2b76db0244b592b1cb2cad77a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-23e640250b9faef4186e2bc0b5fa53c1
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-23e640250b9faef4186e2bc0b5fa53c1
+    projectPath: Temp\UnityTempFile-23e640250b9faef4186e2bc0b5fa53c1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-3c76dd3fcaacc094aba56f36ee9ecf51
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-3c76dd3fcaacc094aba56f36ee9ecf51
+    projectPath: Temp\UnityTempFile-3c76dd3fcaacc094aba56f36ee9ecf51
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-4c095b19d8f38924bb4d11b518c4d384
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-4c095b19d8f38924bb4d11b518c4d384
+    projectPath: Temp\UnityTempFile-4c095b19d8f38924bb4d11b518c4d384
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-5d64efbbf26946e44a3f6020ef4ceab9
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-5d64efbbf26946e44a3f6020ef4ceab9
+    projectPath: Temp\UnityTempFile-5d64efbbf26946e44a3f6020ef4ceab9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-656642eb8a4d25543b67ed99a72cf241
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-656642eb8a4d25543b67ed99a72cf241
+    projectPath: Temp\UnityTempFile-656642eb8a4d25543b67ed99a72cf241
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-66fef967e8c9d124981e652360f6f99c
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-66fef967e8c9d124981e652360f6f99c
+    projectPath: Temp\UnityTempFile-66fef967e8c9d124981e652360f6f99c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-7dcf1337730303e48af62979d6cd3a77
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-7dcf1337730303e48af62979d6cd3a77
+    projectPath: Temp\UnityTempFile-7dcf1337730303e48af62979d6cd3a77
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-8535c28633d733c4da2753bb2cda2f45
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-8535c28633d733c4da2753bb2cda2f45
+    projectPath: Temp\UnityTempFile-8535c28633d733c4da2753bb2cda2f45
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-859b71fe10a37294da5931102be60095
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-859b71fe10a37294da5931102be60095
+    projectPath: Temp\UnityTempFile-859b71fe10a37294da5931102be60095
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-86ecef86a11a73a49ab947ef9ac5242f
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-86ecef86a11a73a49ab947ef9ac5242f
+    projectPath: Temp\UnityTempFile-86ecef86a11a73a49ab947ef9ac5242f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-9333495b2a6fa254682e1c8c4db283a1
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-9333495b2a6fa254682e1c8c4db283a1
+    projectPath: Temp\UnityTempFile-9333495b2a6fa254682e1c8c4db283a1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-a0f72517501e4004197ccf53139b9cff
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-a0f72517501e4004197ccf53139b9cff
+    projectPath: Temp\UnityTempFile-a0f72517501e4004197ccf53139b9cff
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-aa121285947f171429ed92569f2969b1
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-aa121285947f171429ed92569f2969b1
+    projectPath: Temp\UnityTempFile-aa121285947f171429ed92569f2969b1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-ad92e01ac53798c4dbbcdf214d4dd835
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-ad92e01ac53798c4dbbcdf214d4dd835
+    projectPath: Temp\UnityTempFile-ad92e01ac53798c4dbbcdf214d4dd835
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-bc5efe1a523ad3f47968aa4c13917318
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-bc5efe1a523ad3f47968aa4c13917318
+    projectPath: Temp\UnityTempFile-bc5efe1a523ad3f47968aa4c13917318
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-cf00fd591ad34674583d5f5e667db40b
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-cf00fd591ad34674583d5f5e667db40b
+    projectPath: Temp\UnityTempFile-cf00fd591ad34674583d5f5e667db40b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-ece3a551a2e5dab4ca2c4960c4d75bfd
+    fullPath: C:\Users\ricardo~\Desktop\New Unity Project\Temp\UnityTempFile-ece3a551a2e5dab4ca2c4960c4d75bfd
+    projectPath: Temp\UnityTempFile-ece3a551a2e5dab4ca2c4960c4d75bfd
     originalPath: 
     status: 1
     staged: 0

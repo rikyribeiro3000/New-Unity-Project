@@ -7,7 +7,6 @@ public class respostadavb : MonoBehaviour
 {
     public bool triggerbby = false;
     public bool triggerbbwy = false;
-    public GameObject LevelEnd;
     public GameObject textdisa;
     public GameObject Levelwin;
     public GameObject questionPanel;
@@ -21,14 +20,12 @@ public class respostadavb : MonoBehaviour
     {
         if (triggerbby == true)
         {
-            controlos player = other.GetComponent<controlos>();
-            if (player == null)
-                return;
-            player.moveSpeed = 0;
-            LevelEnd.SetActive(true);
-            textdisa.SetActive(false);
+            gameover._gameortt.addtrys();
+            gameover._gameortt.rgcw();
+            gameover._gameortt.playerpos();
+            
         }
-        if (triggerbbwy == true)
+            if (triggerbbwy == true)
         {
 
             Levelwin.SetActive(true);
