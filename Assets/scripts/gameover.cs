@@ -6,7 +6,7 @@ using UnityEngine;
 
 public class gameover : MonoBehaviour
 {
-    public int hit = 25;
+    public int hit = 10;
     public int rgc = 0;
     public static gameover _gameortt;
     public List<AudioClip> taunt = new List<AudioClip>();

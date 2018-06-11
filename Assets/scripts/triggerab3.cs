@@ -22,7 +22,7 @@ public class triggerab3 : MonoBehaviour
         {
             GameController._instance.TranstionToNextQuestion();
             controlos player = other.GetComponent<controlos>();
-            
+            GameController._instance.checkpoint = 1;
             other.gameObject.transform.position = warptarget.position;
             Camera.main.transform.position = warptarget.position;
             if (player.moveSpeed < 15) {player.moveSpeed = player.moveSpeed + 1; }
