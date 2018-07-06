@@ -19,7 +19,13 @@ public static class Save
         stream.Close();
     }
 
-     public static int[] LoadPlayer()
+    public static void deletetry()
+    {
+        File.Delete(Application.persistentDataPath + "/player.tet");
+    }
+
+
+    public static int[] LoadPlayer()
      {
          if (File.Exists(Application.persistentDataPath + "/player.tet"))
          {

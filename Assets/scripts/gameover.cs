@@ -10,7 +10,7 @@ public class gameover : MonoBehaviour
     public int rgc = 0;
     public static gameover _gameortt;
     public List<AudioClip> taunt = new List<AudioClip>();
-    public int trys = 0;                                                                                // A variable that counts how many lifes u have u inicially start with 3 
+    public int trys = 0;                                                                              
     public GameObject LevelEnd;                                                                         // A game object that is here becase if the number of lifes is 0 then activate this game scene
     public GameObject textdisa;                                                                         // This one makes the text dissapear
     public Transform playerpos1;                                                      // This variable is here because of the checkpoints                                                      
@@ -50,7 +50,7 @@ public class gameover : MonoBehaviour
         text.text = "X" + trys;
         Save.Savetry(this);
     }
-   public void rgcw()
+    public void rgcw()
     {
         rgc = Random.Range(0, 100);
         if (hit >= rgc)
@@ -72,5 +72,6 @@ public class gameover : MonoBehaviour
             playerpos1.transform.position = pussypoint.transform.position;
         }
     }
+
 }           
 

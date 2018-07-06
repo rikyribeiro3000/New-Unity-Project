@@ -2,6 +2,7 @@ WindowsStandalone
 SceneListBegin?
 Assets/scenes/Main.unity
 Assets/scenes/~ik.unity
+Assets/scenes/winsubtmit.unity
 SceneListEnd?
 0e206abc0faa955f6cacb43f89f0a444 Assembly-CSharp.dll:MaterialUI.RippleAnim
 589fe6e1867b6a18424a9606d79fe6bf Assembly-CSharp.dll:MaterialUI.NavDrawerConfig
@@ -144,6 +145,7 @@ fc432a39eaeef78297108013f8d37dcf Assembly-CSharp.dll:MaterialUI.ToastAnim
 653af8f619e12c983ea590c735eeba09 Assembly-CSharp.dll:MaterialUI.InputFieldConfig
 c5b77decb97ffc0c36e810b155d27dde Assembly-CSharp.dll:Tiled2Unity.TiledMap
 48aeaeba3825bb77275a030963f34e50 Assembly-CSharp.dll:.gameovertext
+2b56ede2561dbfb6a103a2520682eb35 Assembly-CSharp.dll:.text2
 dfd8612f103c62f6217bf0d9b9f3c497 Assembly-CSharp.dll:MaterialUI.SliderConfig
 040822aba61db66da140bc7065f2e2f0 Assembly-CSharp.dll:.respostadavb
 e45161899efe8cad5875bda2ebdec31d Assembly-CSharp.dll:MaterialUI.ShadowSnap
@@ -151,6 +153,7 @@ e45161899efe8cad5875bda2ebdec31d Assembly-CSharp.dll:MaterialUI.ShadowSnap
 e5d9ab3e3afae89fd535a121729c2aad Assembly-CSharp.dll:.Example05
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.Editor.Placeholder
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.openhigh3
 e024402a708ba845635b872ee0cb1f0d Assembly-CSharp.dll:MaterialUI.Toaster
 a2fb81737197952430437076e92e3f64 Assembly-CSharp.dll:.GameController
 0ea7e3a1b65cd933d7a007e6774c4eaa Assembly-CSharp.dll:.camerafollow
@@ -209,6 +212,7 @@ b6a4e0f46582e1b4ea27adb53405c4c7 Assembly-CSharp.dll:Tiled2Unity.SpriteDepthInMa
 d290070ecf091336e70150a7db25d112 Assembly-CSharp.dll:Tiled2Unity.ObjectLayer
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:MaterialUI.ToggleConfig
 ee9a64ec5a71c5ed71bb10f58bbe52e9 Assembly-CSharp.dll:.controlos
+c427961f7b380e47776febd73aa37e36 Assembly-CSharp.dll:.queryscript
 bbfc82f1dd303b011bc41cf44b8f7f04 Assembly-CSharp.dll:.respostadava
 329bcbf88b3c0197d230f5b9ceb88333 Assembly-CSharp.dll:Tiled2Unity.TmxObject
 1f4bf70487ec06869219e949dcadfb79 Assembly-CSharp.dll:.triggerb
