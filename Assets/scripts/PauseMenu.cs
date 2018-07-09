@@ -13,6 +13,8 @@ public class PauseMenu : MonoBehaviour {
     public Slider volumeSlider;
     public Dropdown resolutionDropdown;
     public GameObject pauseMenuUI;
+    public GameObject death;
+
     // Update is called once per frame
     void Update () {
         volumeSlider.value = AudioListener.volume;
@@ -66,6 +68,18 @@ public class PauseMenu : MonoBehaviour {
     public void SetFullscreen(bool isFullscreen)
     {
         Screen.fullScreen = isFullscreen;
+    }
+
+    public void Sethitboxoff(bool isoff)
+    {
+        if (isoff == true)
+        {
+            death.SetActive(true);
+        }
+        else
+        {
+            death.SetActive(false);
+        }
     }
 
     public void SetResolution(int resolutionIndex)

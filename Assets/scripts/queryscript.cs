@@ -11,8 +11,10 @@ using System.Collections.Generic;
 using System.Linq;
 
 
+
 public class queryscript : MonoBehaviour
 {
+
     public int trys = 0;
     [SerializeField] private Text text;
     public InputField name123;
