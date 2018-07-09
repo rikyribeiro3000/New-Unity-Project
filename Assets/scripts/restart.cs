@@ -7,7 +7,8 @@ public class restart : MonoBehaviour
 
     public void RestartGame()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name); 
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        Save.deletetry();
     }
 
 }

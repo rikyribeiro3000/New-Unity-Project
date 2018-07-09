@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/User/Desktop/Desktop.exe
+C:/Users/ricardo~/Desktop/Desktop.exe
 SceneListBegin?
 Assets/scenes/Main.unity
 Assets/scenes/~ik.unity
